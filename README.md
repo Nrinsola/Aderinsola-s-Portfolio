@@ -4,4 +4,4 @@
 Energy consumption globally, energy use in various nations.
 
  This dataset is a compilation of important metrics that Our World in Data keeps track of. It contains information on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and other pertinent metrics, and it is updated on a regular basis.
-(https://github.com/Nrinsola/Aderinsola_Portfolio/commit/503ec4a16fb0ce418c3b628d599dea0d9346dc43)
+[](https://github.com/Nrinsola/Aderinsola_Portfolio/commit/503ec4a16fb0ce418c3b628d599dea0d9346dc43)
