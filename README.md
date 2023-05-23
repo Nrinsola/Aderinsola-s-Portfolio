@@ -88,4 +88,5 @@ The following information is provided: - The date - "Date" - The opening price o
 From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exchanges.
   For the period from January 2012 through December March 2021, content CSV files for specific bitcoin exchanges are available. They include minute-by-minute updates of the OHLC (Open, High, Low, Close), volume in BTC and the specified currency, and the weighted bitcoin price. Unix time is used for timestamps. Timestamps with no transactions or other activity have NaN values in their data fields. The exchange (or its API) may have been down, it may not have existed, or there may have been some other unanticipated technical problem in data reporting or collection if a timestamp is missing or if there are jumps. Every attempt has been made to eliminate duplicate entries and confirm the contents are correct and complete to the best of my ability, but obviously trust at your own risk.
 
+<img width="721" alt="btc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/c155d740-1362-433c-9d16-fc0645ea835f">
 
