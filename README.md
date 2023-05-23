@@ -37,5 +37,15 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 <img width="721" alt="taxi2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/822b0d47-7900-452e-95cf-bf14c930b8b3">
 
+# [Project 5: COVID-19's Impact on Airport Traffic: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+
+
+
+# Analysis of Traffic Volume Post-COVID: Effect of COVID-19 on Airport Traffic 
+
+This dataset displays traffic to and from the airport as a percentage of overall traffic volume throughout the reference period. From 1 February to 15 March 2020 serves as the baseline period for computing this measure. , and service zone. The information is updated every month.
+
+
+
 
 
