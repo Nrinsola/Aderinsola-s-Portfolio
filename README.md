@@ -48,4 +48,16 @@ This dataset displays traffic to and from the airport as a percentage of overall
 <img width="960" alt="COVID19 AIRPORT" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9f3be81a-2709-4fe2-badb-37568d50c258">
 
 
+# [Project 6: Brazilian E-Commerce Public Dataset by Olist: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+
+
+
+# Olist's Brazilian E-Commerce Public Dataset 
+
+Welcome! This is a publicly available Brazilian eCommerce order dataset from the Olist Store. The dataset contains details on 100k orders placed between 2016 and 2018 on several Brazilian marketplaces. Its capabilities enable examining an order from a variety of angles, including customer location, product qualities, order status, pricing, payment, and freight performance. 
+A geolocation dataset that links Brazilian zip codes to lat/lng coordinates was also made available. 
+References to the corporations and partners in the review language have been swapped out for the names of the great houses from Game of Thrones. This is actual commercial data that has been anonymised. 
+
+
+
 
