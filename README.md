@@ -58,6 +58,10 @@ Welcome! This is a publicly available Brazilian eCommerce order dataset from the
 A geolocation dataset that links Brazilian zip codes to lat/lng coordinates was also made available. 
 References to the corporations and partners in the review language have been swapped out for the names of the great houses from Game of Thrones. This is actual commercial data that has been anonymised. 
 
+<img width="721" alt="olist1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/2019438a-5669-43ce-ae08-20823dd5201a">
+
+
+<img width="724" alt="olist2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9ec09334-790d-49cc-99e7-79763b975cd4">
 
 
 
