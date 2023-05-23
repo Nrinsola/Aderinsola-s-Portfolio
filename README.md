@@ -106,4 +106,19 @@ I'm hoping the data will be able to demonstrate the pace of a cholera pandemic i
 
 <img width="958" alt="1853 STOCKHOM CHOLERA OUTBREAK ANALYSIS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/038b61e0-9183-4838-beed-3eb3b49f89f8">
 
+# [Project: NCDC COVID-19 NIGERIA ANALYSIS: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+
+#  Nigeria Centre for Disease Control and Prevention(NCDC) COVID-19 NIGERIA ANALYSIS
+# Recommendations
+Aside the basic health and hygiene practices, such as handwashing, preventive measure to ensure control of Covid-19
+and use of hand sanitizer, it is imperative to note that there are other preventive measures to ensure control of Covid-19.
+States with emerging case should emphasize the importance of getting vaccinated because vaccines are highly effective at preventing COVID-19.
+• Wearing of nose mask in public areas help to prevent the spread or the virus from infected individuals to others.
+• Physical distancing from others who are not in your household, especially in crowded spaces.
+• Wash your hands regularly: Wash your hands frequently with soap and water for at least 20 seconds, or use hand sanitizer that contains atleast 60% alcohol.
+• Avoid large gatherings: Avoid crowded indoor spaces, especially those without good ventilation, and limit your attendance at large events or gatherings.
+• Stay home if you're sick: If you have symptoms of COVID-19, stay home and isolate yourself from others, and get tested for the virus.
+• Practice good respiratory hygiene: Cover your mouth and nose with a tissue or your elbow when you cough or sneeze, and dispose of tissues properly.
+• Keep surfaces clean: Clean and disinfect frequently touched surfaces and objects regularly, especially in public spaces.
+
 
