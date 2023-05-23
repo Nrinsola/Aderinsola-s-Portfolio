@@ -142,6 +142,8 @@ This report shows a breakdown of products sold over a two-year period in four (4
 Emphasis should be given to the best-selling item across the board, as this would increase customer happiness, sales, and money. A reward system should be in place to inspire and motivate sales staff to improve their performance and bring in more clients.
 To increase sales, more money should be invested in low-revenue areas. Increased social media marketing and advertising can do this by raising target audience awareness.
 
+<img width="934" alt="Excel Sales Analysis" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/afa6c4f3-e494-4acb-a884-a1a211f97b24">
+
 
 
 
