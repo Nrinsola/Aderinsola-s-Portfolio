@@ -128,6 +128,8 @@ States with emerging case should emphasize the importance of getting vaccinated 
 # [Project: WHO COVID-19 GLOBAL ANALYSIS: Project overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # WHO COVID-19 GLOBAL ANALYSIS
 
+<img width="960" alt="WHO" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/22fdb5b5-03c1-41e1-94ad-704c9436bc74">
+
 
 
 
