@@ -33,3 +33,9 @@ This dataset includes a geographic map in the TopoJSON and Shapefile formats alo
 The Taxi & Limousine Commission's fiscal calendar (2017-2020) is included in the 454 Calendar table, which has fields for the date, fiscal year, quarter, month, and week. 
 Information on 265 zone sites in New York City, including the location id, borough, and service zone, are included in the Taxi Zones table.
 
+<img width="722" alt="taxi1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/236d260b-6996-4d45-a7a8-73068390670e">
+
+<img width="721" alt="taxi2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/822b0d47-7900-452e-95cf-bf14c930b8b3">
+
+
+
