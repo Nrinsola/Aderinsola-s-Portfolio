@@ -22,3 +22,14 @@ Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, in
 
 <img width="722" alt="mexican" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/399cf2e8-2485-4c70-a451-4bfd1c8397da">
 
+# [Project 4: NYC Taxi Project: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+
+# NYC Taxi Project 
+
+
+# Regarding the dataset 
+This dataset includes a geographic map in the TopoJSON and Shapefile formats along with six tables in the CSV format. 
+28 million Green Taxi journeys in New York City were recorded between 2017 and 2020, according to the 4 Taxi journeys tables. Each record corresponds to a single trip, and its fields include information on the pick-up and drop-off times and places, travel lengths, prices, passengers, and other factors. 
+The Taxi & Limousine Commission's fiscal calendar (2017-2020) is included in the 454 Calendar table, which has fields for the date, fiscal year, quarter, month, and week. 
+Information on 265 zone sites in New York City, including the location id, borough, and service zone, are included in the Taxi Zones table.
+
