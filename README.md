@@ -78,7 +78,9 @@ Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records
 Historic stock prices for ten well-known companies 
 The stock prices of the top ten businesses (Apple, Amazon, Netflix, Microsoft, Google, Facebook, Tesla, Walmart, Uber, and Zoom) are the focus of this dataset. 
 Content The dataset contains the following information: 
-The following information is provided: - The date - "Date" - The opening price of the stock - "Open" - The high price for that day - "High" - The low price for that day - "Low" - The closing price for that day - "Close" - The total number of shares traded on that day - "Volume" The stock's closing price adjusted to reflect any dividends or corporate actions that take place before the next day's open - "Adjusted Close" Time range: 2015 to 2021 (day level)
+The following information is provided: - The date - "Date" - The opening price of the stock - "Open" - The high price for that day - "High" - The low price for that day - "Low" - The closing price for that day - "Close" - The total number of shares traded on that day - "Volume" The stock's closing price adjusted to reflect any dividends or corporate actions that take place before the next day's open - "Adjusted Close" Time range: 2015 to 2021 (day level).
+
+<img width="732" alt="stock price" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/c68a83b9-19f7-4b7a-9d25-d1764b95d397">
 
 
 
