@@ -1,6 +1,6 @@
 # Aderinsola_Portfolio
 
-# [Project 1: World Energy Consumption: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: World Energy Consumption: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # Energy consumption globally, energy use in various nations.
 
  This dataset is a compilation of important metrics that Our World in Data keeps track of. It contains information on energy consumption (primary energy, per capita, and growth rates), energy mix, electricity mix, and other pertinent metrics, and it is updated on a regular basis. 
@@ -8,7 +8,7 @@
 
 <img width="954" alt="WORLD" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/1a4bb2df-bcc6-42ac-8893-cc37aa2a325c">
 
-# [Project 2: Shark Attacks: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Shark Attacks: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # Shark Attacts
 shark attacks documented during the previous 100 years, including location, activity, and victim information (name, 
 
@@ -16,13 +16,13 @@ shark species, gender, age, etc.
 
 <img width="724" alt="shark" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/085a82ef-dfe0-41ae-91f8-d8d11bc63d13">
 
-# [Project 3: Restaurant Ratings: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Restaurant Ratings: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # Restaurant Ratings
 Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, including extra details on each establishment's cuisines and the tastes of the individual customers.
 
 <img width="722" alt="mexican" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/399cf2e8-2485-4c70-a451-4bfd1c8397da">
 
-# [Project 4: NYC Taxi Project: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: NYC Taxi Project: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 # NYC Taxi Project 
 
@@ -37,7 +37,7 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 <img width="721" alt="taxi2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/822b0d47-7900-452e-95cf-bf14c930b8b3">
 
-# [Project 5: COVID-19's Impact on Airport Traffic: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: COVID-19's Impact on Airport Traffic: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 
 
@@ -48,7 +48,7 @@ This dataset displays traffic to and from the airport as a percentage of overall
 <img width="960" alt="COVID19 AIRPORT" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9f3be81a-2709-4fe2-badb-37568d50c258">
 
 
-# [Project 6: Brazilian E-Commerce Public Dataset by Olist: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Brazilian E-Commerce Public Dataset by Olist: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 
 
@@ -64,9 +64,21 @@ References to the corporations and partners in the review language have been swa
 <img width="724" alt="olist2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9ec09334-790d-49cc-99e7-79763b975cd4">
 
 
-# [Project 7: Airline Flight Delays: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Airline Flight Delays: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 # Airline Flight Delays 
 Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records for more than 5,000,000 commercial airline flights were assembled in 2015. The airline name, flight number, origin and destination airports, flight duration, scheduled and actual departure and arrival times, and flight distance are all included in each record, which represents a single trip. 
 
 <img width="960" alt="US AIRLINE FLIGHTS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/0792936e-1892-45ad-9998-b5cc9d1c6e64">
+
+# [Project: Historical Stock Price of 10 Popular Companies: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# Historical Stock Price of 10 Popular Companies 
+
+
+Historic stock prices for ten well-known companies 
+The stock prices of the top ten businesses (Apple, Amazon, Netflix, Microsoft, Google, Facebook, Tesla, Walmart, Uber, and Zoom) are the focus of this dataset. 
+Content The dataset contains the following information: 
+The following information is provided: - The date - "Date" - The opening price of the stock - "Open" - The high price for that day - "High" - The low price for that day - "Low" - The closing price for that day - "Close" - The total number of shares traded on that day - "Volume" The stock's closing price adjusted to reflect any dividends or corporate actions that take place before the next day's open - "Adjusted Close" Time range: 2015 to 2021 (day level)
+
+
+
