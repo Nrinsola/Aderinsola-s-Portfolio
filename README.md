@@ -90,3 +90,18 @@ From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exch
 
 <img width="721" alt="btc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/c155d740-1362-433c-9d16-fc0645ea835f">
 
+# [Project: Cholera Outbreak, Stockholm, 1853: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# Cholera Outbreak, Stockholm, 1853
+
+# Context 
+This is a product of study on Stockholm's nineteenth-century history. 
+Since Sweden's church archives are in good condition, it is possible to find out specific details on occurrences like pandemics. I'll begin this data collection by learning more about the significant cholera epidemic that occurred in late August 1853. Within a few weeks, 3% of the population had passed away. St. Catherine parish, one of the city's poorer neighborhoods, was particularly heavily impacted. 
+
+# Content 
+The information is gathered from manually compiled church records. Up until about 1870, the church was in charge of all population registration. The only data examined were death records. Since cholera has a 40% CFR, we may presume that there are more people who are afflicted yet survive. 
+
+
+# Inspiration 
+I'm hoping the data will be able to demonstrate the pace of a cholera pandemic in the 19th century in a city with very poor sanitation and the terrible consequences it had on society, along the with people. 
+
+
