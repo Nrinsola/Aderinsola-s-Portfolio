@@ -22,3 +22,6 @@ shark species, gender, age, etc.
 Restaurant Ratings 
 Restaurant ratings in Mexico by real consumers from 2012, including additional information 
 about each restaurant and their cuisines, and each consumer and their preferences.
+
+<img width="722" alt="mexican" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/399cf2e8-2485-4c70-a451-4bfd1c8397da">
+
