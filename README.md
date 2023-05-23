@@ -104,4 +104,6 @@ The information is gathered from manually compiled church records. Up until abou
 # Inspiration 
 I'm hoping the data will be able to demonstrate the pace of a cholera pandemic in the 19th century in a city with very poor sanitation and the terrible consequences it had on society, along the with people. 
 
+<img width="958" alt="1853 STOCKHOM CHOLERA OUTBREAK ANALYSIS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/038b61e0-9183-4838-beed-3eb3b49f89f8">
+
 
