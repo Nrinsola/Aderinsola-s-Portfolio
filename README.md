@@ -125,10 +125,24 @@ States with emerging case should emphasize the importance of getting vaccinated 
 
 <img width="722" alt="ncdc2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7cbcefc4-a35c-4802-b5c3-d4ebe071eb17">
 
-# [Project: WHO COVID-19 GLOBAL ANALYSIS: Project overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: WHO COVID-19 GLOBAL ANALYSIS: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # WHO COVID-19 GLOBAL ANALYSIS
 
 <img width="960" alt="WHO" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/22fdb5b5-03c1-41e1-94ad-704c9436bc74">
+
+# [Project: STORE SALES ANALYSIS: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# STORE SALES ANALYSIS
+
+# Summary 
+
+This report shows a breakdown of products sold over a two-year period in four (4) regions with eight (8) salespeople, According to the breakdown, sales in 2018 generated more money than they did in 2019. Additionally, accessories were the top-selling item overall, selling 16% more than apparel, the second-best-selling item, which sold 24.63% more. Texas generated the most income for the shop, totaling $532k, while New Mexico generated the least, totaling $493K across all five areas. The top-performing salespeople were Anna Weber and Laura Larsen, who each earned $276k, and Kim Fishman, who earned $232k,the salesperson who performs the worst. The most revenue was earned by Company S in 2018 with a total of $74K, while Company C earned the most in 2019 with a total of $64K. However, Company D reported the greatest aggregate revenue for the two years, $123K.
+
+# Recommendations
+
+Emphasis should be given to the best-selling item across the board, as this would increase customer happiness, sales, and money. A reward system should be in place to inspire and motivate sales staff to improve their performance and bring in more clients.
+To increase sales, more money should be invested in low-revenue areas. Increased social media marketing and advertising can do this by raising target audience awareness.
+
+
 
 
 
