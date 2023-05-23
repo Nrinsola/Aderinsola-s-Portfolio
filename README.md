@@ -45,7 +45,7 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 This dataset displays traffic to and from the airport as a percentage of overall traffic volume throughout the reference period. From 1 February to 15 March 2020 serves as the baseline period for computing this measure. , and service zone. The information is updated every month.
 
-
+<img width="960" alt="COVID19 AIRPORT" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9f3be81a-2709-4fe2-badb-37568d50c258">
 
 
 
