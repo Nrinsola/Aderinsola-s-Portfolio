@@ -121,4 +121,9 @@ States with emerging case should emphasize the importance of getting vaccinated 
 • Practice good respiratory hygiene: Cover your mouth and nose with a tissue or your elbow when you cough or sneeze, and dispose of tissues properly.
 • Keep surfaces clean: Clean and disinfect frequently touched surfaces and objects regularly, especially in public spaces.
 
+<img width="724" alt="ncdc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d781a51a-5ea4-4201-8c18-4213813cae1f">
+
+<img width="722" alt="ncdc2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7cbcefc4-a35c-4802-b5c3-d4ebe071eb17">
+
+
 
