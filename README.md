@@ -17,3 +17,8 @@ shark species, gender, age, etc.
 
 <img width="724" alt="shark" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/085a82ef-dfe0-41ae-91f8-d8d11bc63d13">
 
+# [Project 3: Restaurant Ratings: Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+
+Restaurant Ratings 
+Restaurant ratings in Mexico by real consumers from 2012, including additional information 
+about each restaurant and their cuisines, and each consumer and their preferences.
