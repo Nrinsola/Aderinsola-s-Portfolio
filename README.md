@@ -1,4 +1,4 @@
-# Aderinsola_Portfolio
+# Aderinsola's Portfolio
 
 # [Project: World Energy Consumption(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 <img width="954" alt="WORLD" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/401e1b16-39d2-4344-8c93-174fbc8a3965">
