@@ -93,6 +93,12 @@ References to the corporations and partners in the review language have been swa
 
 
 # [Project: Airline Flight Delays(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="960" alt="US AIRLINE FLIGHTS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/1aed9c83-9929-46cb-a90a-7bd8fcdd1501">
+<img width="960" alt="Screenshot 2023-05-23 163638" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/bd1e5d77-f56c-4d50-a38e-3abdfca7d808">
+<img width="960" alt="Screenshot 2023-05-23 164158" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/0fe727f7-b58d-406a-9ea7-1c32839c780e">
+<img width="958" alt="Screenshot 2023-05-24 064842" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/6a92ad75-198f-41b2-bcac-88ef9bc0bd10">
+<img width="953" alt="Screenshot 2023-05-24 065238" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9032ca68-0226-470f-94ed-673ba2f742a7">
+<img width="960" alt="Screenshot 2023-05-24 065455" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/adf52b2d-cafe-4bf3-af83-b5b4435bafd3">
 
 
 # Airline Flight Delays 
@@ -102,7 +108,6 @@ Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records
 # [Project: Historical Stock Price of 10 Popular Companies(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 
-<img width="732" alt="stock price" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/c68a83b9-19f7-4b7a-9d25-d1764b95d397">
 
 # Historical Stock Price of 10 Popular Companies 
 The stock prices of the top ten businesses (Apple, Amazon, Netflix, Microsoft, Google, Facebook, Tesla, Walmart, Uber, and Zoom) are the focus of this dataset. 
