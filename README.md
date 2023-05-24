@@ -98,7 +98,6 @@ References to the corporations and partners in the review language have been swa
 <img width="960" alt="Screenshot 2023-05-23 164158" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/0fe727f7-b58d-406a-9ea7-1c32839c780e">
 <img width="958" alt="Screenshot 2023-05-24 064842" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/6a92ad75-198f-41b2-bcac-88ef9bc0bd10">
 <img width="953" alt="Screenshot 2023-05-24 065238" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9032ca68-0226-470f-94ed-673ba2f742a7">
-<img width="960" alt="Screenshot 2023-05-24 065455" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/adf52b2d-cafe-4bf3-af83-b5b4435bafd3">
 
 
 # Airline Flight Delays 
