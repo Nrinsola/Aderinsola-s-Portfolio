@@ -1,6 +1,11 @@
 # Aderinsola_Portfolio
 
 # [Project: World Energy Consumption(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="954" alt="WORLD" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/401e1b16-39d2-4344-8c93-174fbc8a3965">
+<img width="960" alt="Screenshot 2023-05-23 163141" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/06114b5f-8762-4226-8fe2-b2c4ca175f06">
+<img width="960" alt="Screenshot 2023-05-23 163201" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7a80eded-555d-441d-b7a2-577986ed1d53">
+<img width="954" alt="Screenshot 2023-05-24 071140" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/603afed7-34d2-4b81-94be-0ddcaeeca97c">
+
 # Energy consumption globally, energy use in various nations.
 
 
