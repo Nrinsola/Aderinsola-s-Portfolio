@@ -15,6 +15,11 @@
 
 
 # [Project: Shark Attacks(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="724" alt="shark" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/1893fcd3-c10d-44b9-9fa5-612db962949b">
+<img width="960" alt="Screenshot 2023-05-23 144725" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e9720d26-2bc8-4e85-86be-41f202061677">
+<img width="960" alt="Screenshot 2023-05-23 144834" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e0ccdb81-847e-44b5-96d6-c2bec0944172">
+<img width="960" alt="Screenshot 2023-05-23 144931" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/40ac6cb9-3445-4a00-9631-86d67d6a6905">
+
 # Shark Attacts
 
 
@@ -28,7 +33,7 @@ shark species, gender, age, etc.
 # [Project: Restaurant Ratings(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # Restaurant Ratings
 
-<img width="722" alt="mexican" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/399cf2e8-2485-4c70-a451-4bfd1c8397da">
+
 
 Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, including extra details on each establishment's cuisines and the tastes of the individual customers.
 
