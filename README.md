@@ -17,7 +17,7 @@
 # [Project: Shark Attacks(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # Shark Attacts
 
-<img width="724" alt="shark" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/085a82ef-dfe0-41ae-91f8-d8d11bc63d13">
+
 
 shark attacks documented during the previous 100 years, including location, activity, and victim information (name, 
 
