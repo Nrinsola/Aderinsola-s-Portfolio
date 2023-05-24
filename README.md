@@ -117,6 +117,10 @@ The following information is provided: - The date - "Date" - The opening price o
 
 
 # [Project: Bitcoin Historical Data(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="721" alt="btc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e87b5545-82bd-410b-bff6-d2cd957f66a1">
+<img width="960" alt="Screenshot 2023-05-23 150855" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7c612671-9abd-4311-9619-64064f585f32">
+<img width="960" alt="Screenshot 2023-05-23 151015" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d27ffe22-97af-4bbb-9b52-72ca1dd45b58">
+
 
 
 # Bitcoin Historical Data 
@@ -127,7 +131,6 @@ From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exch
 
 # [Project: Cholera Outbreak, Stockholm, 1853(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="958" alt="1853 STOCKHOM CHOLERA OUTBREAK ANALYSIS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/038b61e0-9183-4838-beed-3eb3b49f89f8">
 
 # Cholera Outbreak, Stockholm, 1853
 
