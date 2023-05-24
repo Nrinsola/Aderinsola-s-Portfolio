@@ -64,6 +64,10 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 # [Project: COVID-19's Impact on Airport Traffic(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
+<img width="960" alt="COVID19 AIRPORT" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/1e292193-2bcf-4338-a61b-f04e98a3b9f6">
+<img width="960" alt="Screenshot 2023-05-23 162616" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/6ae68069-8aaa-4e3f-85d7-eb5098d75e0f">
+<img width="960" alt="Screenshot 2023-05-23 162650" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b9dee79d-6326-41a1-999d-200f0fc24507">
+<img width="960" alt="Screenshot 2023-05-24 070557" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ef7b0221-5ecf-49d3-b1c6-6ce13fb118f2">
 
 
 # Analysis of Traffic Volume Post-COVID: Effect of COVID-19 on Airport Traffic 
@@ -74,10 +78,6 @@ This dataset displays traffic to and from the airport as a percentage of overall
 
 # [Project: Brazilian E-Commerce Public Dataset by Olist(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="721" alt="olist1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/2019438a-5669-43ce-ae08-20823dd5201a">
-
-
-<img width="724" alt="olist2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9ec09334-790d-49cc-99e7-79763b975cd4">
 
 
 
