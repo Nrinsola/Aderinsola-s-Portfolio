@@ -79,7 +79,11 @@ This dataset displays traffic to and from the airport as a percentage of overall
 # [Project: Brazilian E-Commerce Public Dataset by Olist(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
 
-
+<img width="721" alt="olist1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b937681a-6403-4a9d-b4be-81b678d5cc9c">
+<img width="724" alt="olist2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/2d6190fb-ebcc-4bdb-a914-cc1c34de1b45">
+<img width="960" alt="Screenshot 2023-05-23 152551" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d0b9d63a-ab30-4e80-8c83-f4df19938169">
+<img width="960" alt="Screenshot 2023-05-23 152604" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7d515ab2-2dca-41e9-91f8-5bc4d0cafb56">
+<img width="960" alt="Screenshot 2023-05-23 152616" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9847cbd0-6b1c-46b5-affb-a9f8b56dff3e">
 
 # Olist's Brazilian E-Commerce Public Dataset 
 
@@ -90,7 +94,6 @@ References to the corporations and partners in the review language have been swa
 
 # [Project: Airline Flight Delays(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="960" alt="US AIRLINE FLIGHTS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/0792936e-1892-45ad-9998-b5cc9d1c6e64">
 
 # Airline Flight Delays 
 Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records for more than 5,000,000 commercial airline flights were assembled in 2015. The airline name, flight number, origin and destination airports, flight duration, scheduled and actual departure and arrival times, and flight distance are all included in each record, which represents a single trip. 
