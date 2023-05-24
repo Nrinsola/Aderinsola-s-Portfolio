@@ -44,6 +44,12 @@ Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, in
 
 
 # [Project: NYC Taxi Project(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="722" alt="taxi1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/c7d56f83-c70b-4b9f-a7bd-d39a9f76693e">
+<img width="721" alt="taxi2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/63183563-c2ec-4889-b663-574b0e569171">
+<img width="960" alt="Screenshot 2023-05-23 152258" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/642d2953-a546-420d-aad0-43d82073c167">
+<img width="960" alt="Screenshot 2023-05-23 152147" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b0f1fb42-35dd-45ca-bfa8-e2b82098d857">
+<img width="960" alt="Screenshot 2023-05-23 152216" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/3d6125e9-4a74-437a-80a9-541e1c285dbc">
+
 
 
 # NYC Taxi Project 
@@ -58,7 +64,6 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 # [Project: COVID-19's Impact on Airport Traffic(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="960" alt="COVID19 AIRPORT" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/9f3be81a-2709-4fe2-badb-37568d50c258">
 
 
 # Analysis of Traffic Volume Post-COVID: Effect of COVID-19 on Airport Traffic 
