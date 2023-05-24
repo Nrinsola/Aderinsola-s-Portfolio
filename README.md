@@ -173,10 +173,12 @@ States with emerging case should emphasize the importance of getting vaccinated 
 # [Project: WHO COVID-19 GLOBAL ANALYSIS(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # WHO COVID-19 GLOBAL ANALYSIS
 
+<img width="960" alt="WHO" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/8f96c33a-0ee1-485b-9f7f-81a5245633d9">
+<img width="960" alt="Screenshot 2023-05-23 162952" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/bbba51ec-4614-4481-86f8-4a1fcfd20f47">
+<img width="960" alt="Screenshot 2023-05-24 071517" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/111eb03f-88df-4515-8eaf-20c6c42a5ecb">
 
 # [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="934" alt="Excel Sales Analysis" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/afa6c4f3-e494-4acb-a884-a1a211f97b24">
 
 # STORE SALES ANALYSIS
 
