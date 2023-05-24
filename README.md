@@ -106,10 +106,9 @@ Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records
 
 # [Project: Historical Stock Price of 10 Popular Companies(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="732" alt="stock price" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/51fcf19b-c755-41ae-848f-f97d0c4e0ac2">
-<img width="960" alt="Screenshot 2023-05-23 145303" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/afa616c3-b3ea-4ab9-ad4d-8ec8892af194">
-<img width="960" alt="Screenshot 2023-05-23 145342" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/3b8593c4-1f5c-466b-b093-b179e80432a2">
-<img width="958" alt="Screenshot 2023-05-23 145410" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e78fb5fa-82d4-4363-873d-01b7c59a9ac1">
+<img width="732" alt="stock price" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/31812cf7-8864-465b-b935-045c777bcc20">
+<img width="960" alt="Screenshot 2023-05-23 145303" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/f7700ffd-3c32-4f7e-90e3-aee59d143c71">
+<img width="958" alt="Screenshot 2023-05-23 145410" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/4fb1dce2-774c-410f-aad9-f21f8d4760da">
 
 # Historical Stock Price of 10 Popular Companies 
 The stock prices of the top ten businesses (Apple, Amazon, Netflix, Microsoft, Google, Facebook, Tesla, Walmart, Uber, and Zoom) are the focus of this dataset. 
