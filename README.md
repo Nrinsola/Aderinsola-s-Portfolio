@@ -151,6 +151,10 @@ I'm hoping the data will be able to demonstrate the pace of a cholera pandemic i
 
 
 # [Project: NCDC COVID-19 NIGERIA ANALYSIS(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="724" alt="ncdc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b28286c3-02fd-4234-a6d0-00add295cc8e">
+<img width="722" alt="ncdc2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/3c81958d-52a3-47ad-a103-1315617813b2">
+<img width="960" alt="Screenshot 2023-05-23 151857" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/31ae8234-6690-42c4-b656-5d39e7175bf7">
+<img width="960" alt="Screenshot 2023-05-24 071608" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b44c3813-1d20-4025-81af-dff5799d0814">
 
 #  Nigeria Centre for Disease Control and Prevention(NCDC) COVID-19 NIGERIA ANALYSIS
 # Recommendations
@@ -169,7 +173,6 @@ States with emerging case should emphasize the importance of getting vaccinated 
 # [Project: WHO COVID-19 GLOBAL ANALYSIS(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 # WHO COVID-19 GLOBAL ANALYSIS
 
-<img width="960" alt="WHO" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/22fdb5b5-03c1-41e1-94ad-704c9436bc74">
 
 # [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
