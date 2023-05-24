@@ -31,6 +31,10 @@ shark species, gender, age, etc.
 
 
 # [Project: Restaurant Ratings(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+<img width="722" alt="mexican" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7f559b34-af2b-429a-ad63-c4c4057fafc9">
+<img width="960" alt="Screenshot 2023-05-23 150030" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/174062a0-c3f8-453b-acc2-cb866bd4c2c7">
+<img width="960" alt="Screenshot 2023-05-23 151553" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ce7c1ada-fed4-4433-8f0f-8f42fa8afd57">
+
 # Restaurant Ratings
 
 
@@ -41,9 +45,6 @@ Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, in
 
 # [Project: NYC Taxi Project(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
-<img width="722" alt="taxi1" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/236d260b-6996-4d45-a7a8-73068390670e">
-
-<img width="721" alt="taxi2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/822b0d47-7900-452e-95cf-bf14c930b8b3">
 
 # NYC Taxi Project 
 
