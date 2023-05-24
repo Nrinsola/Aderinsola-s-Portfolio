@@ -131,6 +131,10 @@ From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exch
 
 # [Project: Cholera Outbreak, Stockholm, 1853(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
+<img width="958" alt="1853 STOCKHOM CHOLERA OUTBREAK ANALYSIS" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/558c4aab-269c-4795-afa3-f8d089334346">
+<img width="960" alt="Screenshot 2023-05-23 153329" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d17b4726-5ac1-443d-99f7-c0d82c1f0f67">
+<img width="946" alt="Screenshot 2023-05-24 070407" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d80969e2-9454-4d2b-88dc-96930c9c5488">
+
 
 # Cholera Outbreak, Stockholm, 1853
 
@@ -147,9 +151,6 @@ I'm hoping the data will be able to demonstrate the pace of a cholera pandemic i
 
 
 # [Project: NCDC COVID-19 NIGERIA ANALYSIS(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-<img width="724" alt="ncdc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/d781a51a-5ea4-4201-8c18-4213813cae1f">
-
-<img width="722" alt="ncdc2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/7cbcefc4-a35c-4802-b5c3-d4ebe071eb17">
 
 #  Nigeria Centre for Disease Control and Prevention(NCDC) COVID-19 NIGERIA ANALYSIS
 # Recommendations
