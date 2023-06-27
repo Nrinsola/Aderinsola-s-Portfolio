@@ -171,7 +171,7 @@ States with emerging case should emphasize the importance of getting vaccinated 
 <img width="960" alt="Screenshot 2023-05-23 162952" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/bbba51ec-4614-4481-86f8-4a1fcfd20f47">
 <img width="960" alt="Screenshot 2023-05-24 071517" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/111eb03f-88df-4515-8eaf-20c6c42a5ecb">
 
-# [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalysis-dataanalyst-excel-activity-7078529683755065344-OX9z?utm_source=share&utm_medium=member_desktop))
 
 <img width="934" alt="Excel Sales Analysis" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ac6a0d62-b5fd-4d7a-85e4-2fe509d49adc">
 <img width="960" alt="Screenshot 2023-05-23 152849" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/09ce333f-e3e3-450f-a4e7-fd934b5bb8b0">
