@@ -189,8 +189,18 @@ Emphasis should be given to the best-selling item across the board, as this woul
 To increase sales, more money should be invested in low-revenue areas. Increased social media marketing and advertising can do this by raising target audience awareness.
 
 
+# [Project: CYCLISTIC BIKE-SHARE ANALYSIS(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
 
+# CYCLISTIC BIKE-SHARE ANALYSIS
 
+Identifying the use habits of Annual members and Casual riders will help marketing teams create a new marketing campaign strategy to turn Casual riders to Annual members.
+
+# SUMMARY
+
+The season has an impact on both yearly members and casual riders overall journey lenght. the winter months have the lowest overall trip duration of any season since fewer people are ready to venture outside and those who must travel often for work opt to use alternative public transportation.
+In terms of overall trip duration from May to September for two user group, we observe a considerable difference across time. this has considerably revealed their usage pattern as a result of their preferences and it becomes much more obvious when we consider the overall number of trips made throughout each hour of the day.
+
+The annual member exhibit two peak hours, which are at Morning and Afternoon, suggest they are most likely office employees. the overall trip duration for casual riders and annual members are influenced by this. The afternoon is when there are the most casual riders. The top 20 stations that casual riders frequent are largely tourist destinations and the casual riders are probably a couple, family, student, retiree, or tourist.
 
 
 
