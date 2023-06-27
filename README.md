@@ -194,13 +194,20 @@ To increase sales, more money should be invested in low-revenue areas. Increased
 # CYCLISTIC BIKE-SHARE ANALYSIS
 
 Identifying the use habits of Annual members and Casual riders will help marketing teams create a new marketing campaign strategy to turn Casual riders to Annual members.
+<img width="958" alt="Screenshot 2023-06-24 154823" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ffb00eb8-798a-447d-8972-4b27fb2c52c8">
+<img width="578" alt="Screenshot 2023-06-24 164149" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/a4ff912e-0e33-4b41-b56d-64ef4cbafbb8">
+<img width="689" alt="Screenshot 2023-06-24 164306" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/cb88bae1-595c-41b7-aea4-9e0e05b99a69">
+<img width="579" alt="Screenshot 2023-06-24 164317" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/5cfb5117-a78f-4287-9cf7-5e2b21585ebf">
+<img width="691" alt="Screenshot 2023-06-24 164330" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e3ef8a8e-d1e5-473e-aa55-8130997fae02">
+<img width="652" alt="Screenshot 2023-06-24 164348" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ff421b87-1383-4a4a-bcb1-4557de85619c">
 
 # SUMMARY
 
-The season has an impact on both yearly members and casual riders overall journey lenght. the winter months have the lowest overall trip duration of any season since fewer people are ready to venture outside and those who must travel often for work opt to use alternative public transportation.
-In terms of overall trip duration from May to September for two user group, we observe a considerable difference across time. this has considerably revealed their usage pattern as a result of their preferences and it becomes much more obvious when we consider the overall number of trips made throughout each hour of the day.
+The season has an impact on both yearly members and casual riders overall journey lenght. The winter months have the lowest overall trip duration of any season since fewer people are ready to venture outside and those who must travel often for work opt to use alternative public transportation.
 
-The annual member exhibit two peak hours, which are at Morning and Afternoon, suggest they are most likely office employees. the overall trip duration for casual riders and annual members are influenced by this. The afternoon is when there are the most casual riders. The top 20 stations that casual riders frequent are largely tourist destinations and the casual riders are probably a couple, family, student, retiree, or tourist.
+In terms of overall trip duration from May to September for two user group, we observe a considerable difference across time. This has considerably revealed their usage pattern as a result of their preferences and it becomes much more obvious when we consider the overall number of trips made throughout each hour of the day.
+
+The annual member exhibit two peak hours, which are at Morning and Afternoon, suggest they are most likely office employees. The overall trip duration for casual riders and annual members are influenced by this, the afternoon is when there are the most casual riders. The top 20 stations that casual riders frequent are largely tourist destinations and the casual riders are probably a couple, family, student, retiree, or tourist.
 
 
 
