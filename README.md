@@ -1,6 +1,6 @@
 
 
-# [Project: World Energy Consumption(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: World Energy Consumption(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067682679021780992-pMM6?utm_source=share&utm_medium=member_desktop)
 # Energy consumption globally, energy use in various nations.
 
 
@@ -12,7 +12,7 @@
 <img width="954" alt="Screenshot 2023-05-24 071140" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/603afed7-34d2-4b81-94be-0ddcaeeca97c">
 
 
-# [Project: Shark Attacks(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Shark Attacks(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067650227599491072-cHFZ?utm_source=share&utm_medium=member_desktop)
 # Shark Attacts
 
 shark attacks documented during the previous 100 years, including location, activity, and victim information (name, shark species, gender, age, etc. 
@@ -24,8 +24,7 @@ shark attacks documented during the previous 100 years, including location, acti
 
 
 
-# [Project: Restaurant Ratings(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-
+# [Project: Restaurant Ratings(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067645665643773952-l2Wn?utm_source=share&utm_medium=member_desktop)
 
 # Restaurant Ratings
 Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, including extra details on each establishment's cuisines and the tastes of the individual customers.
@@ -36,8 +35,7 @@ Restaurant Ratings of Mexican restaurants from 2012 made by actual customers, in
 
 
 
-# [Project: NYC Taxi Project(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-
+# [Project: NYC Taxi Project(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067680475317755904-qd7g?utm_source=share&utm_medium=member_desktop)
 
 # NYC Taxi Project 
 
@@ -56,7 +54,7 @@ Information on 265 zone sites in New York City, including the location id, borou
 
 
 
-# [Project: COVID-19's Impact on Airport Traffic(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: COVID-19's Impact on Airport Traffic(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067682902733406208-28dg?utm_source=share&utm_medium=member_desktop)
 # Analysis of Traffic Volume Post-COVID: Effect of COVID-19 on Airport Traffic 
 
 This dataset displays traffic to and from the airport as a percentage of overall traffic volume throughout the reference period. From 1 February to 15 March 2020 serves as the baseline period for computing this measure. , and service zone. The information is updated every month.
@@ -69,7 +67,7 @@ This dataset displays traffic to and from the airport as a percentage of overall
 
 
 
-# [Project: Brazilian E-Commerce Public Dataset by Olist(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Brazilian E-Commerce Public Dataset by Olist(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalysis-activity-7067643611131052032-GHha?utm_source=share&utm_medium=member_desktop)
 # Olist's Brazilian E-Commerce Public Dataset 
 
 Welcome! This is a publicly available Brazilian eCommerce order dataset from the Olist Store. The dataset contains details on 100k orders placed between 2016 and 2018 on several Brazilian marketplaces. Its capabilities enable examining an order from a variety of angles, including customer location, product qualities, order status, pricing, payment, and freight performance. 
@@ -85,7 +83,7 @@ References to the corporations and partners in the review language have been swa
 
 
 
-# [Project: Airline Flight Delays(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Airline Flight Delays(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067681438950637568-M0dM?utm_source=share&utm_medium=member_desktop)
 
 # Airline Flight Delays 
 Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records for more than 5,000,000 commercial airline flights were assembled in 2015. The airline name, flight number, origin and destination airports, flight duration, scheduled and actual departure and arrival times, and flight distance are all included in each record, which represents a single trip. 
@@ -99,7 +97,7 @@ Delays with Airline Flights For the U.S. DOT Air Travel Consumer Report, records
 
 
 
-# [Project: Historical Stock Price of 10 Popular Companies(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Historical Stock Price of 10 Popular Companies(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067646877143302145-IiDn?utm_source=share&utm_medium=member_desktop)
 # Historical Stock Price of 10 Popular Companies 
 The stock prices of the top ten businesses (Apple, Amazon, Netflix, Microsoft, Google, Facebook, Tesla, Walmart, Uber, and Zoom) are the focus of this dataset. 
 Content The dataset contains the following information: 
@@ -110,8 +108,7 @@ The following information is provided: - The date - "Date" - The opening price o
 <img width="958" alt="Screenshot 2023-05-23 145410" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/4fb1dce2-774c-410f-aad9-f21f8d4760da">
 
 
-# [Project: Bitcoin Historical Data(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-
+# [Project: Bitcoin Historical Data(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067671108690264064-gpfn?utm_source=share&utm_medium=member_desktop)
 # Bitcoin Historical Data 
 
 From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exchanges.
@@ -125,7 +122,7 @@ From January 2012 to March 2021, Bitcoin data at 1-min intervals from a few exch
 
 
 
-# [Project: Cholera Outbreak, Stockholm, 1853(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: Cholera Outbreak, Stockholm, 1853(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067682150485045248-GiMw?utm_source=share&utm_medium=member_desktop)
 # Cholera Outbreak, Stockholm, 1853
 
 # Context 
@@ -143,8 +140,7 @@ The information is gathered from manually compiled church records. Up until abou
 I'm hoping the data will be able to demonstrate the pace of a cholera pandemic in the 19th century in a city with very poor sanitation and the terrible consequences it had on society, along the with people. 
 
 
-# [Project: NCDC COVID-19 NIGERIA ANALYSIS(PowerBi): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-
+# [Project: NCDC COVID-19 NIGERIA ANALYSIS(PowerBi): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067678887123501056-FOSr?utm_source=share&utm_medium=member_desktop)
 <img width="724" alt="ncdc" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/b28286c3-02fd-4234-a6d0-00add295cc8e">
 <img width="722" alt="ncdc2" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/3c81958d-52a3-47ad-a103-1315617813b2">
 <img width="960" alt="Screenshot 2023-05-23 151857" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/31ae8234-6690-42c4-b656-5d39e7175bf7">
@@ -164,15 +160,14 @@ States with emerging case should emphasize the importance of getting vaccinated 
 • Keep surfaces clean: Clean and disinfect frequently touched surfaces and objects regularly, especially in public spaces.
 
 
-# [Project: WHO COVID-19 GLOBAL ANALYSIS(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
+# [Project: WHO COVID-19 GLOBAL ANALYSIS(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067680925802803200-QQyI?utm_source=share&utm_medium=member_desktop)
 # WHO COVID-19 GLOBAL ANALYSIS
 
 <img width="960" alt="WHO" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/8f96c33a-0ee1-485b-9f7f-81a5245633d9">
 <img width="960" alt="Screenshot 2023-05-23 162952" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/bbba51ec-4614-4481-86f8-4a1fcfd20f47">
 <img width="960" alt="Screenshot 2023-05-24 071517" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/111eb03f-88df-4515-8eaf-20c6c42a5ecb">
 
-# [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalysis-dataanalyst-excel-activity-7078529683755065344-OX9z?utm_source=share&utm_medium=member_desktop))
-
+# [Project: STORE SALES ANALYSIS(Excel): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalyst-activity-7067683637827166208-ZEgH?utm_source=share&utm_medium=member_desktop)
 <img width="934" alt="Excel Sales Analysis" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ac6a0d62-b5fd-4d7a-85e4-2fe509d49adc">
 <img width="960" alt="Screenshot 2023-05-23 152849" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/09ce333f-e3e3-450f-a4e7-fd934b5bb8b0">
 
