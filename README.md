@@ -189,8 +189,7 @@ Emphasis should be given to the best-selling item across the board, as this woul
 To increase sales, more money should be invested in low-revenue areas. Increased social media marketing and advertising can do this by raising target audience awareness.
 
 
-# [Project: CYCLISTIC BIKE-SHARE ANALYSIS(Tableau): Project Overview](https://github.com/Nrinsola/Aderinsola_Portfolio)
-
+# [Project: CYCLISTIC BIKE-SHARE ANALYSIS(Tableau): Project Overview](https://www.linkedin.com/posts/adeniyi-aderinsola-861307267_dataanalysis-dataanalyst-excel-activity-7078529683755065344-OX9z?utm_source=share&utm_medium=member_desktop)
 # CYCLISTIC BIKE-SHARE ANALYSIS
 
 Identifying the use habits of Annual members and Casual riders will help marketing teams create a new marketing campaign strategy to turn Casual riders to Annual members.
