@@ -200,6 +200,8 @@ Identifying the use habits of Annual members and Casual riders will help marketi
 <img width="579" alt="Screenshot 2023-06-24 164317" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/5cfb5117-a78f-4287-9cf7-5e2b21585ebf">
 <img width="691" alt="Screenshot 2023-06-24 164330" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/e3ef8a8e-d1e5-473e-aa55-8130997fae02">
 <img width="652" alt="Screenshot 2023-06-24 164348" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ff421b87-1383-4a4a-bcb1-4557de85619c">
+<img width="844" alt="Screenshot 2023-06-27 032931" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/ff566cba-d485-454a-af59-0d0a6d25afb7">
+<img width="849" alt="Screenshot 2023-06-27 032957" src="https://github.com/Nrinsola/Aderinsola_Portfolio/assets/134318639/a9694116-163d-4916-9706-314481088ae3">
 
 # SUMMARY
 
